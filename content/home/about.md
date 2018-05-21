@@ -22,7 +22,7 @@ weight = 5
   year = "2016-now"
 
 [[education.courses]]
-  course = "M.Sc. Degree in Robotics and Automation"
+  course = "Master in Robotics and Automation"
   institution = "University Carlos III of Madrid"
   year = 2015
 
@@ -34,4 +34,4 @@ weight = 5
 +++
 
 # Biography
-I'm currently doing my PhD at UC3M, in Madrid. My thesis is about 3D object detection for autonomous vehicles, fusing LiDAR and visual information with deep learning techniques. Although my background is in Computer Science, once I finished my Bachelor I decided to do a Master in Robotics. This move led me to my actual place in life, the Intelligent Systems Lab, where I've been working (and learning!) since then.
+I'm currently doing my PhD at UC3M, in Madrid. My thesis is about 3D object detection for autonomous vehicles, fusing LiDAR and visual information with deep learning techniques. Although my background is in Computer Science, once I finished my Bachelor I decided to do a Master in Robotics. This move led me to my current place in life, the Intelligent Systems Lab, where I've been working (and learning!) since then.

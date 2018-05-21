@@ -26,7 +26,7 @@ abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "itsc17_thumbnail.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -45,7 +45,7 @@ tags = []
 url_pdf = "https://ieeexplore.ieee.org/document/8317829/"
 url_preprint = "https://arxiv.org/abs/1705.04085"
 url_code = "https://github.com/beltransen/velo2cam_calibration"
-url_dataset = "https://github.com/beltransen/velo2cam_gazebo"
+url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -55,6 +55,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Simulator", url = "https://github.com/beltransen/velo2cam_gazebo"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
