@@ -18,8 +18,8 @@ authors = ["Jorge Beltrán", "Carlos Guindel", "Fernando García", "Arturo de la
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted to IEEE International Conference on Intelligent Transportation Systems"
-publication_short = "Submitted to IEEE ITSC"
+publication = "Accepted at IEEE International Conference on Intelligent Transportation Systems"
+publication_short = "Accepted at IEEE ITSC"
 
 # Abstract and optional shortened version.
 abstract = ""
